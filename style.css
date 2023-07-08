@@ -1,0 +1,54 @@
+body, a{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.container{
+    display: flex;
+}
+
+.main-login{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5%;
+}
+
+.landing{
+    background-color: burlywood;
+    padding: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+input{
+    background-color: #f1f2f6;
+    border: none;
+    border-radius: 6px;
+    padding: 6% 50% 6% 6%;
+}
+
+.form{
+    font-family: 'Poppins', sans-serif;
+}
+
+button{
+    background-color: black;
+    color: #f1f2f6;
+    border-radius: 6px;
+    padding: 4% 40%;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    margin-top: 4%;
+    font-size: large;
+}
+
+.sign-up{
+    margin-top: 10%;
+}
